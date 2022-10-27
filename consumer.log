@@ -1,0 +1,2688 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-26T04:33:36.411506400Z</date>
+  <millis>1666758816411</millis>
+  <nanos>506400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 3b7fef78-f757-424d-9c0c-431768022528</message>
+</record>
+<record>
+  <date>2022-10-26T04:33:36.827491800Z</date>
+  <millis>1666758816827</millis>
+  <nanos>491800</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 5c94f104-a9b3-4fed-a039-2cc4c631d042</message>
+</record>
+<record>
+  <date>2022-10-26T04:33:37.209106800Z</date>
+  <millis>1666758817209</millis>
+  <nanos>106800</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 6984abeb-5b24-42eb-93cc-3a5bef6b4b8a</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-26T17:05:59.978266200Z</date>
+  <millis>1666803959978</millis>
+  <nanos>266200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 5c94f104-a9b3-4fed-a039-2cc4c631d042</message>
+</record>
+<record>
+  <date>2022-10-26T17:06:00.842511600Z</date>
+  <millis>1666803960842</millis>
+  <nanos>511600</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 5c94f104-a9b3-4fed-a039-2cc4c631d042</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-26T17:33:41.851409800Z</date>
+  <millis>1666805621851</millis>
+  <nanos>409800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 289114da-d5f9-4fb6-b72c-d04158549cf5</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:42.447077600Z</date>
+  <millis>1666805622447</millis>
+  <nanos>77600</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget edc7e62a-5e5b-42a0-9574-89981265f2d7</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:43.027439400Z</date>
+  <millis>1666805623027</millis>
+  <nanos>439400</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget d78947b5-1dce-4d66-957c-cf48a7fbf7c8</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:43.482289100Z</date>
+  <millis>1666805623482</millis>
+  <nanos>289100</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget a34d5ddc-1ca6-48e7-8272-e206c8dd91c2</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:43.950537Z</date>
+  <millis>1666805623950</millis>
+  <nanos>537000</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget c34eac6c-e4cd-4fc4-881c-60c5ed74b381</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:44.336755400Z</date>
+  <millis>1666805624336</millis>
+  <nanos>755400</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 289114da-d5f9-4fb6-b72c-d04158549cf5</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:44.716924300Z</date>
+  <millis>1666805624716</millis>
+  <nanos>924300</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 20f11d7d-8cc7-431c-8663-972c146e50b1</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:45.175355500Z</date>
+  <millis>1666805625175</millis>
+  <nanos>355500</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget a44af188-a6e3-440a-9b7c-4ef785067283</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:45.566902300Z</date>
+  <millis>1666805625566</millis>
+  <nanos>902300</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget 29b6b7d2-ed15-4beb-bcbf-7f19bf7a322a</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:45.995292200Z</date>
+  <millis>1666805625995</millis>
+  <nanos>292200</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 6a1afe1d-f0b4-40db-bffa-9c020b58f46c</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:46.468257500Z</date>
+  <millis>1666805626468</millis>
+  <nanos>257500</nanos>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget a68c9497-76b5-4d63-8661-ede0f4c973f0</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:46.852537100Z</date>
+  <millis>1666805626852</millis>
+  <nanos>537100</nanos>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget 498c417f-ea6c-4f93-ac32-3082004035a3</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:47.326136600Z</date>
+  <millis>1666805627326</millis>
+  <nanos>136600</nanos>
+  <sequence>12</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget c34eac6c-e4cd-4fc4-881c-60c5ed74b381</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:47.714444600Z</date>
+  <millis>1666805627714</millis>
+  <nanos>444600</nanos>
+  <sequence>13</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 7679da01-f5a9-4392-9417-045363d5c203</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:48.101167300Z</date>
+  <millis>1666805628101</millis>
+  <nanos>167300</nanos>
+  <sequence>14</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget 080724c9-e726-493a-beb7-46527cfaeb88</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:48.575859600Z</date>
+  <millis>1666805628575</millis>
+  <nanos>859600</nanos>
+  <sequence>15</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 5b40d7c6-7c70-4be1-9fd3-150ac7f4db9f</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:49.280105300Z</date>
+  <millis>1666805629280</millis>
+  <nanos>105300</nanos>
+  <sequence>16</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 5b40d7c6-7c70-4be1-9fd3-150ac7f4db9f</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:50.498011100Z</date>
+  <millis>1666805630498</millis>
+  <nanos>11100</nanos>
+  <sequence>17</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 5b40d7c6-7c70-4be1-9fd3-150ac7f4db9f</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:50.910087200Z</date>
+  <millis>1666805630910</millis>
+  <nanos>87200</nanos>
+  <sequence>18</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 22b88d24-909b-49fc-bae6-64bd4f8c4c74</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:51.352504Z</date>
+  <millis>1666805631352</millis>
+  <nanos>504000</nanos>
+  <sequence>19</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget ceb7958d-e6f1-4a4a-8cd9-ac4f31cb9470</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:51.839905300Z</date>
+  <millis>1666805631839</millis>
+  <nanos>905300</nanos>
+  <sequence>20</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 0c0172d2-86f3-4215-ae3b-f9bbce877c11</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:52.286451400Z</date>
+  <millis>1666805632286</millis>
+  <nanos>451400</nanos>
+  <sequence>21</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget d89834c0-6354-43f0-ac2e-a9c69913d005</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:52.742520100Z</date>
+  <millis>1666805632742</millis>
+  <nanos>520100</nanos>
+  <sequence>22</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 8b7ed256-9a1b-4df7-8537-8150efaa9d27</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:53.103306400Z</date>
+  <millis>1666805633103</millis>
+  <nanos>306400</nanos>
+  <sequence>23</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 3051d14f-709c-4969-8cfe-44e287a69005</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:53.717410300Z</date>
+  <millis>1666805633717</millis>
+  <nanos>410300</nanos>
+  <sequence>24</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 17be727a-0961-4e3f-bc7b-6cf015d98e97</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:54.150618800Z</date>
+  <millis>1666805634150</millis>
+  <nanos>618800</nanos>
+  <sequence>25</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget ae664248-4277-4b04-900d-500037c7560d</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:54.577554200Z</date>
+  <millis>1666805634577</millis>
+  <nanos>554200</nanos>
+  <sequence>26</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 763c7a8d-77d5-44a8-bfaf-26e516b4d50f</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:55.046703200Z</date>
+  <millis>1666805635046</millis>
+  <nanos>703200</nanos>
+  <sequence>27</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 90e81708-76dc-4495-8801-11b5bc592ccb</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:55.411251100Z</date>
+  <millis>1666805635411</millis>
+  <nanos>251100</nanos>
+  <sequence>28</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget ca3b4a3b-4380-40f2-8b86-57ea971a0286</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:56.065354300Z</date>
+  <millis>1666805636065</millis>
+  <nanos>354300</nanos>
+  <sequence>29</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 90e81708-76dc-4495-8801-11b5bc592ccb</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:56.524692300Z</date>
+  <millis>1666805636524</millis>
+  <nanos>692300</nanos>
+  <sequence>30</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget ae59e3d7-ba9b-4e55-bcdd-e5137ef3f036</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:56.979755300Z</date>
+  <millis>1666805636979</millis>
+  <nanos>755300</nanos>
+  <sequence>31</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 3882478f-022c-4932-8579-5a8293667834</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:57.452949900Z</date>
+  <millis>1666805637452</millis>
+  <nanos>949900</nanos>
+  <sequence>32</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget f195f389-fbf1-441c-b974-a2cc25f424b4</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:58.123990300Z</date>
+  <millis>1666805638123</millis>
+  <nanos>990300</nanos>
+  <sequence>33</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 6a1afe1d-f0b4-40db-bffa-9c020b58f46c</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:58.618026200Z</date>
+  <millis>1666805638618</millis>
+  <nanos>26200</nanos>
+  <sequence>34</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 593b4884-65db-4015-afed-9a4cabe18d65</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:59.304348100Z</date>
+  <millis>1666805639304</millis>
+  <nanos>348100</nanos>
+  <sequence>35</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 3882478f-022c-4932-8579-5a8293667834</message>
+</record>
+<record>
+  <date>2022-10-26T17:33:59.746944300Z</date>
+  <millis>1666805639746</millis>
+  <nanos>944300</nanos>
+  <sequence>36</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 66707887-1405-410f-994f-645bbbb30b5e</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:00.429828400Z</date>
+  <millis>1666805640429</millis>
+  <nanos>828400</nanos>
+  <sequence>37</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 763c7a8d-77d5-44a8-bfaf-26e516b4d50f</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:00.879971100Z</date>
+  <millis>1666805640879</millis>
+  <nanos>971100</nanos>
+  <sequence>38</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget b079e96b-4878-4d20-9674-57ff404baf3a</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:01.573292600Z</date>
+  <millis>1666805641573</millis>
+  <nanos>292600</nanos>
+  <sequence>39</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 8b7ed256-9a1b-4df7-8537-8150efaa9d27</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:02.006931Z</date>
+  <millis>1666805642006</millis>
+  <nanos>931000</nanos>
+  <sequence>40</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 1e1f33db-3062-476e-9c80-5d3f1fdd0986</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:02.684525500Z</date>
+  <millis>1666805642684</millis>
+  <nanos>525500</nanos>
+  <sequence>41</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget d89834c0-6354-43f0-ac2e-a9c69913d005</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:03.344115400Z</date>
+  <millis>1666805643344</millis>
+  <nanos>115400</nanos>
+  <sequence>42</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget ae59e3d7-ba9b-4e55-bcdd-e5137ef3f036</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:03.985573700Z</date>
+  <millis>1666805643985</millis>
+  <nanos>573700</nanos>
+  <sequence>43</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 763c7a8d-77d5-44a8-bfaf-26e516b4d50f</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:04.374915500Z</date>
+  <millis>1666805644374</millis>
+  <nanos>915500</nanos>
+  <sequence>44</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget d1039aab-70d1-4b40-93bf-e5bef0e16d5d</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:04.755552100Z</date>
+  <millis>1666805644755</millis>
+  <nanos>552100</nanos>
+  <sequence>45</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget c5b6a580-4027-478d-a7b4-7f97097edd34</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:05.159099600Z</date>
+  <millis>1666805645159</millis>
+  <nanos>99600</nanos>
+  <sequence>46</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget 826aacc9-8034-4ede-abce-349625371e96</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:05.623275100Z</date>
+  <millis>1666805645623</millis>
+  <nanos>275100</nanos>
+  <sequence>47</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 04d05e3d-2f12-4e9c-9512-f11686db2a66</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:06.348074500Z</date>
+  <millis>1666805646348</millis>
+  <nanos>74500</nanos>
+  <sequence>48</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 66707887-1405-410f-994f-645bbbb30b5e</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:06.856144800Z</date>
+  <millis>1666805646856</millis>
+  <nanos>144800</nanos>
+  <sequence>49</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 02ce679b-3ce0-4043-9095-5880dca6d75d</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:07.352601200Z</date>
+  <millis>1666805647352</millis>
+  <nanos>601200</nanos>
+  <sequence>50</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 08f0ab23-688d-4ebb-a336-3d73b7a6a88c</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:08.035733Z</date>
+  <millis>1666805648035</millis>
+  <nanos>733000</nanos>
+  <sequence>51</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget f195f389-fbf1-441c-b974-a2cc25f424b4</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:08.482723900Z</date>
+  <millis>1666805648482</millis>
+  <nanos>723900</nanos>
+  <sequence>52</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 2c7727e4-f286-4f6b-b587-096c401fc95d</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:09.209755300Z</date>
+  <millis>1666805649209</millis>
+  <nanos>755300</nanos>
+  <sequence>53</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget ceb7958d-e6f1-4a4a-8cd9-ac4f31cb9470</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:09.709741Z</date>
+  <millis>1666805649709</millis>
+  <nanos>741000</nanos>
+  <sequence>54</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget a5ed524c-2102-4330-89b9-e2b7f1fc4bb8</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:10.176288Z</date>
+  <millis>1666805650176</millis>
+  <nanos>288000</nanos>
+  <sequence>55</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 7f7cf187-734f-4b3a-94c5-f0b8cebfee24</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:10.824625Z</date>
+  <millis>1666805650824</millis>
+  <nanos>625000</nanos>
+  <sequence>56</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 1e1f33db-3062-476e-9c80-5d3f1fdd0986</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:11.343862300Z</date>
+  <millis>1666805651343</millis>
+  <nanos>862300</nanos>
+  <sequence>57</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget bb5167f2-33fc-46f7-a859-a199f2a9611f</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:11.837612Z</date>
+  <millis>1666805651837</millis>
+  <nanos>612000</nanos>
+  <sequence>58</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 0669cfec-eb33-42cb-8e24-54f252abf571</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:12.205049800Z</date>
+  <millis>1666805652205</millis>
+  <nanos>49800</nanos>
+  <sequence>59</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 22b88d24-909b-49fc-bae6-64bd4f8c4c74</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:12.662864700Z</date>
+  <millis>1666805652662</millis>
+  <nanos>864700</nanos>
+  <sequence>60</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 5c1e56ee-dbed-4402-84a4-62820773808e</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:13.117747400Z</date>
+  <millis>1666805653117</millis>
+  <nanos>747400</nanos>
+  <sequence>61</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget c692531c-69c8-4632-8612-53aa9a6ad465</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:13.486235400Z</date>
+  <millis>1666805653486</millis>
+  <nanos>235400</nanos>
+  <sequence>62</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 6a1afe1d-f0b4-40db-bffa-9c020b58f46c</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:13.884473200Z</date>
+  <millis>1666805653884</millis>
+  <nanos>473200</nanos>
+  <sequence>63</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 1af1fb63-70e5-4b1d-9f96-deb1fd10dcaf</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:14.337067500Z</date>
+  <millis>1666805654337</millis>
+  <nanos>67500</nanos>
+  <sequence>64</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget c3b7b528-4cf9-49ef-90dc-dd58d1fb76e0</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:14.795774700Z</date>
+  <millis>1666805654795</millis>
+  <nanos>774700</nanos>
+  <sequence>65</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget a95866a8-82bd-47e8-b56c-2801203da576</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:15.439157Z</date>
+  <millis>1666805655439</millis>
+  <nanos>157000</nanos>
+  <sequence>66</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 1e1f33db-3062-476e-9c80-5d3f1fdd0986</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:16.390141100Z</date>
+  <millis>1666805656390</millis>
+  <nanos>141100</nanos>
+  <sequence>67</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 317b188d-77e5-4374-b0f4-5678d2042b14</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:17.041118500Z</date>
+  <millis>1666805657041</millis>
+  <nanos>118500</nanos>
+  <sequence>68</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget ceb7958d-e6f1-4a4a-8cd9-ac4f31cb9470</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:17.858588500Z</date>
+  <millis>1666805657858</millis>
+  <nanos>588500</nanos>
+  <sequence>69</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget ec8b15e0-d8f0-4447-9a34-4725be1bdaeb</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:18.360078800Z</date>
+  <millis>1666805658360</millis>
+  <nanos>78800</nanos>
+  <sequence>70</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 25b61ae8-6f62-470c-8bd6-a15af6d67ee1</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:18.811827300Z</date>
+  <millis>1666805658811</millis>
+  <nanos>827300</nanos>
+  <sequence>71</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 58cd3256-ab41-425d-abff-6c8e1eedf068</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:19.260032500Z</date>
+  <millis>1666805659260</millis>
+  <nanos>32500</nanos>
+  <sequence>72</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 3e71353f-3a6a-4e9f-b13a-817fe00ca6be</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:19.738181Z</date>
+  <millis>1666805659738</millis>
+  <nanos>181000</nanos>
+  <sequence>73</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 39f4fb65-5932-4454-8c4a-cbf4fb790767</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:20.192948900Z</date>
+  <millis>1666805660192</millis>
+  <nanos>948900</nanos>
+  <sequence>74</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget be0b2823-6d7f-42ff-86fd-e6bab6b5f71f</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:20.807669300Z</date>
+  <millis>1666805660807</millis>
+  <nanos>669300</nanos>
+  <sequence>75</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 66707887-1405-410f-994f-645bbbb30b5e</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:21.458052200Z</date>
+  <millis>1666805661458</millis>
+  <nanos>52200</nanos>
+  <sequence>76</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget a34d5ddc-1ca6-48e7-8272-e206c8dd91c2</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:21.915549700Z</date>
+  <millis>1666805661915</millis>
+  <nanos>549700</nanos>
+  <sequence>77</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 54cfe66e-dcd4-40a6-895e-9998e51bb326</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:22.375853600Z</date>
+  <millis>1666805662375</millis>
+  <nanos>853600</nanos>
+  <sequence>78</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 46f6a4c4-4f5a-43a3-aca4-d820fa510a8e</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:22.826688Z</date>
+  <millis>1666805662826</millis>
+  <nanos>688000</nanos>
+  <sequence>79</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 95dae4bb-3a14-48d1-88df-488db611bccd</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:23.270174700Z</date>
+  <millis>1666805663270</millis>
+  <nanos>174700</nanos>
+  <sequence>80</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget a94317c0-ef11-4849-a0b3-b9a9c18ddd6b</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:23.652306800Z</date>
+  <millis>1666805663652</millis>
+  <nanos>306800</nanos>
+  <sequence>81</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 23c22003-e4e2-411f-be05-805ffd07b974</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:24.321221300Z</date>
+  <millis>1666805664321</millis>
+  <nanos>221300</nanos>
+  <sequence>82</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget a94317c0-ef11-4849-a0b3-b9a9c18ddd6b</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:24.687958900Z</date>
+  <millis>1666805664687</millis>
+  <nanos>958900</nanos>
+  <sequence>83</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 4639df0f-a782-42f2-9152-562f8502d4c8</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:25.347578200Z</date>
+  <millis>1666805665347</millis>
+  <nanos>578200</nanos>
+  <sequence>84</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget ceb7958d-e6f1-4a4a-8cd9-ac4f31cb9470</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:25.806769900Z</date>
+  <millis>1666805665806</millis>
+  <nanos>769900</nanos>
+  <sequence>85</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 6408791c-bf0c-468e-ac8b-3cd8aad0e2b1</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:26.284726100Z</date>
+  <millis>1666805666284</millis>
+  <nanos>726100</nanos>
+  <sequence>86</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 452895de-aef9-4c5d-8923-35dd1a5ef756</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:26.742475200Z</date>
+  <millis>1666805666742</millis>
+  <nanos>475200</nanos>
+  <sequence>87</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 255aa07f-9a35-4080-bccc-76fe4a7e05f8</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:27.199169100Z</date>
+  <millis>1666805667199</millis>
+  <nanos>169100</nanos>
+  <sequence>88</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget fa9962ec-1784-4522-ad2d-cb70b9c7151e</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:27.677464600Z</date>
+  <millis>1666805667677</millis>
+  <nanos>464600</nanos>
+  <sequence>89</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget 0c0172d2-86f3-4215-ae3b-f9bbce877c11</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:28.047212400Z</date>
+  <millis>1666805668047</millis>
+  <nanos>212400</nanos>
+  <sequence>90</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget c5b6a580-4027-478d-a7b4-7f97097edd34</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:28.494833800Z</date>
+  <millis>1666805668494</millis>
+  <nanos>833800</nanos>
+  <sequence>91</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 433febc7-c676-4954-bd9f-b2bbfd997984</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:28.933415700Z</date>
+  <millis>1666805668933</millis>
+  <nanos>415700</nanos>
+  <sequence>92</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget b411c9b8-6f08-4b2a-952e-0e6fa42fca2c</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:29.387080500Z</date>
+  <millis>1666805669387</millis>
+  <nanos>80500</nanos>
+  <sequence>93</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 9f86ced9-bf6c-4e61-8961-abd31e483b41</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:29.771148100Z</date>
+  <millis>1666805669771</millis>
+  <nanos>148100</nanos>
+  <sequence>94</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget 56b07a10-4332-4a20-9064-a27f8a51e466</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:30.462772500Z</date>
+  <millis>1666805670462</millis>
+  <nanos>772500</nanos>
+  <sequence>95</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 90e81708-76dc-4495-8801-11b5bc592ccb</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:30.963277Z</date>
+  <millis>1666805670963</millis>
+  <nanos>277000</nanos>
+  <sequence>96</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget a639cf1e-c225-4c5e-bdb8-93fdf796f4f3</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:31.421263100Z</date>
+  <millis>1666805671421</millis>
+  <nanos>263100</nanos>
+  <sequence>97</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget fb32f781-fb62-4ddc-8048-04e941aa1bc4</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:32.071064400Z</date>
+  <millis>1666805672071</millis>
+  <nanos>64400</nanos>
+  <sequence>98</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget b411c9b8-6f08-4b2a-952e-0e6fa42fca2c</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:32.526281400Z</date>
+  <millis>1666805672526</millis>
+  <nanos>281400</nanos>
+  <sequence>99</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget c2a5624b-0eff-46ae-a06a-0c68ca104735</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:33.253298500Z</date>
+  <millis>1666805673253</millis>
+  <nanos>298500</nanos>
+  <sequence>100</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget af1a7439-049d-44b0-8185-8b7a2f7e5183</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:33.627758700Z</date>
+  <millis>1666805673627</millis>
+  <nanos>758700</nanos>
+  <sequence>101</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget d1039aab-70d1-4b40-93bf-e5bef0e16d5d</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:34.108681100Z</date>
+  <millis>1666805674108</millis>
+  <nanos>681100</nanos>
+  <sequence>102</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget a86d30cc-f62e-4e6e-884b-e65ef13b174d</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:34.570780Z</date>
+  <millis>1666805674570</millis>
+  <nanos>780000</nanos>
+  <sequence>103</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 4d475f0b-847b-45dd-ae06-d6a6155b6f5d</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:35.004998300Z</date>
+  <millis>1666805675004</millis>
+  <nanos>998300</nanos>
+  <sequence>104</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 48d0199c-cf5a-4a1b-b359-712f3e74aca2</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:35.508128Z</date>
+  <millis>1666805675508</millis>
+  <nanos>128000</nanos>
+  <sequence>105</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget ea88e999-8fdc-48da-8961-eb7efd0ddc7e</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:35.957093Z</date>
+  <millis>1666805675957</millis>
+  <nanos>93000</nanos>
+  <sequence>106</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 156ef1fa-3efd-4be5-9a8b-f873cde9efe5</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:36.417194Z</date>
+  <millis>1666805676417</millis>
+  <nanos>194000</nanos>
+  <sequence>107</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget d7f8ce58-b781-4dfd-bc9c-974c1d50e8e2</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:36.862956500Z</date>
+  <millis>1666805676862</millis>
+  <nanos>956500</nanos>
+  <sequence>108</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 5b2b200e-1e72-480d-92bb-a0ac45311df8</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:37.318592900Z</date>
+  <millis>1666805677318</millis>
+  <nanos>592900</nanos>
+  <sequence>109</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 3f94a7f6-e174-48a1-9f2e-236359225eb8</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:37.945439600Z</date>
+  <millis>1666805677945</millis>
+  <nanos>439600</nanos>
+  <sequence>110</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 2c7727e4-f286-4f6b-b587-096c401fc95d</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:38.400033600Z</date>
+  <millis>1666805678400</millis>
+  <nanos>33600</nanos>
+  <sequence>111</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 01a2dadd-9546-428b-a339-bea0b8969421</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:38.837987100Z</date>
+  <millis>1666805678837</millis>
+  <nanos>987100</nanos>
+  <sequence>112</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 739b17ad-b077-4444-8700-0bd1bb3d6c95</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:39.421184Z</date>
+  <millis>1666805679421</millis>
+  <nanos>184000</nanos>
+  <sequence>113</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 14d27cab-c019-4352-92e3-595fab95ea93</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:40.109754300Z</date>
+  <millis>1666805680109</millis>
+  <nanos>754300</nanos>
+  <sequence>114</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 156ef1fa-3efd-4be5-9a8b-f873cde9efe5</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:40.482973700Z</date>
+  <millis>1666805680482</millis>
+  <nanos>973700</nanos>
+  <sequence>115</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 23c22003-e4e2-411f-be05-805ffd07b974</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:40.943344500Z</date>
+  <millis>1666805680943</millis>
+  <nanos>344500</nanos>
+  <sequence>116</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 51d6070d-891d-42d4-be1d-f5d02963f32d</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:41.345633800Z</date>
+  <millis>1666805681345</millis>
+  <nanos>633800</nanos>
+  <sequence>117</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget 6a1afe1d-f0b4-40db-bffa-9c020b58f46c</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:41.760957100Z</date>
+  <millis>1666805681760</millis>
+  <nanos>957100</nanos>
+  <sequence>118</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 29e377f8-7f1c-4579-92e6-a2942d5515e8</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:42.248723400Z</date>
+  <millis>1666805682248</millis>
+  <nanos>723400</nanos>
+  <sequence>119</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 876d6e6c-7ce5-4479-b385-20069c6e8676</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:42.757370500Z</date>
+  <millis>1666805682757</millis>
+  <nanos>370500</nanos>
+  <sequence>120</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget fd95dbf3-76f5-4fb3-86bc-f97b0039a2f7</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:43.232425700Z</date>
+  <millis>1666805683232</millis>
+  <nanos>425700</nanos>
+  <sequence>121</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 0cfc0344-c596-48c7-9490-c90381e8587c</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:43.624267600Z</date>
+  <millis>1666805683624</millis>
+  <nanos>267600</nanos>
+  <sequence>122</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 1af1fb63-70e5-4b1d-9f96-deb1fd10dcaf</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:44.077343200Z</date>
+  <millis>1666805684077</millis>
+  <nanos>343200</nanos>
+  <sequence>123</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 8c27a73e-b6c2-4820-a2a6-59b1000f1a1f</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:44.475414700Z</date>
+  <millis>1666805684475</millis>
+  <nanos>414700</nanos>
+  <sequence>124</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 3051d14f-709c-4969-8cfe-44e287a69005</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:44.934720200Z</date>
+  <millis>1666805684934</millis>
+  <nanos>720200</nanos>
+  <sequence>125</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 0a8c3d06-b8fe-49ad-ba19-1247395e30db</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:45.317296900Z</date>
+  <millis>1666805685317</millis>
+  <nanos>296900</nanos>
+  <sequence>126</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget e0d0b277-184c-49dc-8a57-ba07e64941cb</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:45.786980Z</date>
+  <millis>1666805685786</millis>
+  <nanos>980000</nanos>
+  <sequence>127</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget fd25d952-5ef0-438a-b7d0-c7dc52f5d1f7</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:46.258814400Z</date>
+  <millis>1666805686258</millis>
+  <nanos>814400</nanos>
+  <sequence>128</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 259daffe-3744-4cbf-a814-147e4e1dc51f</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:46.726812300Z</date>
+  <millis>1666805686726</millis>
+  <nanos>812300</nanos>
+  <sequence>129</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget abde110d-c9f4-4e27-94ea-112a1ac44f66</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:47.175302500Z</date>
+  <millis>1666805687175</millis>
+  <nanos>302500</nanos>
+  <sequence>130</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget a655fd20-a3db-4e71-926e-42c0a6e5256c</message>
+</record>
+<record>
+  <date>2022-10-26T17:34:47.922506400Z</date>
+  <millis>1666805687922</millis>
+  <nanos>506400</nanos>
+  <sequence>131</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget 02ce679b-3ce0-4043-9095-5880dca6d75d</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-26T17:38:59.989252100Z</date>
+  <millis>1666805939989</millis>
+  <nanos>252100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget e1a3f5a0-3835-42bc-9633-f61998770c97</message>
+</record>
+<record>
+  <date>2022-10-26T17:39:00.318652500Z</date>
+  <millis>1666805940318</millis>
+  <nanos>652500</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:39:00.681346500Z</date>
+  <millis>1666805940681</millis>
+  <nanos>346500</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:39:00.995425100Z</date>
+  <millis>1666805940995</millis>
+  <nanos>425100</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:39:01.294049900Z</date>
+  <millis>1666805941294</millis>
+  <nanos>49900</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:39:01.733958500Z</date>
+  <millis>1666805941733</millis>
+  <nanos>958500</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget b8eed162-bf95-40b5-89c6-c24415116e4f</message>
+</record>
+<record>
+  <date>2022-10-26T17:39:02.047553900Z</date>
+  <millis>1666805942047</millis>
+  <nanos>553900</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:39:02.435906800Z</date>
+  <millis>1666805942435</millis>
+  <nanos>906800</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget da40130c-8c50-4d71-88c4-2312086428f2</message>
+</record>
+<record>
+  <date>2022-10-26T17:39:02.903722600Z</date>
+  <millis>1666805942903</millis>
+  <nanos>722600</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 554e1df6-a695-4e53-a469-324db258a5ae</message>
+</record>
+<record>
+  <date>2022-10-26T17:39:03.263447300Z</date>
+  <millis>1666805943263</millis>
+  <nanos>447300</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-26T17:48:52.178186700Z</date>
+  <millis>1666806532178</millis>
+  <nanos>186700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:52.602092800Z</date>
+  <millis>1666806532602</millis>
+  <nanos>92800</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:53.397987700Z</date>
+  <millis>1666806533397</millis>
+  <nanos>987700</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget f8715808-8573-4fb1-82e0-5a422c6690a7</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:53.729487Z</date>
+  <millis>1666806533729</millis>
+  <nanos>487000</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:54.036289100Z</date>
+  <millis>1666806534036</millis>
+  <nanos>289100</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:54.433101100Z</date>
+  <millis>1666806534433</millis>
+  <nanos>101100</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget cb4b4309-8f16-4ae3-b9c7-555742fbacc9</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:54.724766400Z</date>
+  <millis>1666806534724</millis>
+  <nanos>766400</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:55.092535100Z</date>
+  <millis>1666806535092</millis>
+  <nanos>535100</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget e5dab7ab-4496-4318-9eaa-b813b4040136</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:55.473231Z</date>
+  <millis>1666806535473</millis>
+  <nanos>231000</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:55.820952300Z</date>
+  <millis>1666806535820</millis>
+  <nanos>952300</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget e84b786c-5c64-4670-a063-4c0d1c4e00ee</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:56.201856700Z</date>
+  <millis>1666806536201</millis>
+  <nanos>856700</nanos>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 327102ab-4610-4654-a4be-948159e73230</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:56.512443Z</date>
+  <millis>1666806536512</millis>
+  <nanos>443000</nanos>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:56.892175400Z</date>
+  <millis>1666806536892</millis>
+  <nanos>175400</nanos>
+  <sequence>12</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget fe106e3f-c6db-4530-995e-88bd4484bb96</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:57.179443100Z</date>
+  <millis>1666806537179</millis>
+  <nanos>443100</nanos>
+  <sequence>13</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:57.483293Z</date>
+  <millis>1666806537483</millis>
+  <nanos>293000</nanos>
+  <sequence>14</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:57.836034800Z</date>
+  <millis>1666806537836</millis>
+  <nanos>34800</nanos>
+  <sequence>15</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 34c9fc1c-80a7-4435-9201-1d881f7562a2</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:58.120387600Z</date>
+  <millis>1666806538120</millis>
+  <nanos>387600</nanos>
+  <sequence>16</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:58.512952700Z</date>
+  <millis>1666806538512</millis>
+  <nanos>952700</nanos>
+  <sequence>17</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 8d25ad11-8556-4979-9258-5ef188729fd1</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:58.871549Z</date>
+  <millis>1666806538871</millis>
+  <nanos>549000</nanos>
+  <sequence>18</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 50f515dd-b6c1-42bf-8f97-de27dd154f41</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:59.220825200Z</date>
+  <millis>1666806539220</millis>
+  <nanos>825200</nanos>
+  <sequence>19</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:48:59.917143900Z</date>
+  <millis>1666806539917</millis>
+  <nanos>143900</nanos>
+  <sequence>20</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:00.467947300Z</date>
+  <millis>1666806540467</millis>
+  <nanos>947300</nanos>
+  <sequence>21</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:00.739373300Z</date>
+  <millis>1666806540739</millis>
+  <nanos>373300</nanos>
+  <sequence>22</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:01.005377400Z</date>
+  <millis>1666806541005</millis>
+  <nanos>377400</nanos>
+  <sequence>23</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:01.406372900Z</date>
+  <millis>1666806541406</millis>
+  <nanos>372900</nanos>
+  <sequence>24</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget c4980b3a-4ee9-4e32-a2e0-9882fcc49ca8</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:01.767116500Z</date>
+  <millis>1666806541767</millis>
+  <nanos>116500</nanos>
+  <sequence>25</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 4d80c3a7-2761-4f14-93f5-749c6d270dad</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:02.159586200Z</date>
+  <millis>1666806542159</millis>
+  <nanos>586200</nanos>
+  <sequence>26</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:02.514457500Z</date>
+  <millis>1666806542514</millis>
+  <nanos>457500</nanos>
+  <sequence>27</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 0e48e9e2-d079-4b2c-87c5-274623f7164e</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:02.887309200Z</date>
+  <millis>1666806542887</millis>
+  <nanos>309200</nanos>
+  <sequence>28</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:03.182583700Z</date>
+  <millis>1666806543182</millis>
+  <nanos>583700</nanos>
+  <sequence>29</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:03.506886700Z</date>
+  <millis>1666806543506</millis>
+  <nanos>886700</nanos>
+  <sequence>30</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:03.782534400Z</date>
+  <millis>1666806543782</millis>
+  <nanos>534400</nanos>
+  <sequence>31</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:04.138155100Z</date>
+  <millis>1666806544138</millis>
+  <nanos>155100</nanos>
+  <sequence>32</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 7acff100-87c6-4666-a40d-794ef43978ff</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:04.758109900Z</date>
+  <millis>1666806544758</millis>
+  <nanos>109900</nanos>
+  <sequence>33</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 940c0557-804a-498e-8673-53f7ce424f4c</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:05.101654Z</date>
+  <millis>1666806545101</millis>
+  <nanos>654000</nanos>
+  <sequence>34</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 13bd1ca8-429c-49d8-81d3-159eae1aed7e</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:05.396519200Z</date>
+  <millis>1666806545396</millis>
+  <nanos>519200</nanos>
+  <sequence>35</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:05.787196800Z</date>
+  <millis>1666806545787</millis>
+  <nanos>196800</nanos>
+  <sequence>36</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 80a505ea-2ef4-4254-9d34-06fa22856122</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:06.154357800Z</date>
+  <millis>1666806546154</millis>
+  <nanos>357800</nanos>
+  <sequence>37</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget b67e4941-f287-467c-bb95-d5830e08d4ea</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:06.531501500Z</date>
+  <millis>1666806546531</millis>
+  <nanos>501500</nanos>
+  <sequence>38</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget bdbb6ec9-8b94-4f77-ae6f-1b9f5acae383</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:06.895242100Z</date>
+  <millis>1666806546895</millis>
+  <nanos>242100</nanos>
+  <sequence>39</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 989dfec5-deff-426c-862c-42b1a17fd4ec</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:07.202612400Z</date>
+  <millis>1666806547202</millis>
+  <nanos>612400</nanos>
+  <sequence>40</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:07.558632300Z</date>
+  <millis>1666806547558</millis>
+  <nanos>632300</nanos>
+  <sequence>41</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget b99e7ed9-9e88-4bcd-bdbb-d369d7d76bac</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:07.934862900Z</date>
+  <millis>1666806547934</millis>
+  <nanos>862900</nanos>
+  <sequence>42</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 00fa8735-7e1d-4e69-a1a7-692547b6860d</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:08.284537700Z</date>
+  <millis>1666806548284</millis>
+  <nanos>537700</nanos>
+  <sequence>43</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 43ee7657-3276-419d-b601-539ad3b56266</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:08.585342300Z</date>
+  <millis>1666806548585</millis>
+  <nanos>342300</nanos>
+  <sequence>44</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:08.887564200Z</date>
+  <millis>1666806548887</millis>
+  <nanos>564200</nanos>
+  <sequence>45</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:09.212055100Z</date>
+  <millis>1666806549212</millis>
+  <nanos>55100</nanos>
+  <sequence>46</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:09.490811800Z</date>
+  <millis>1666806549490</millis>
+  <nanos>811800</nanos>
+  <sequence>47</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:09.855641900Z</date>
+  <millis>1666806549855</millis>
+  <nanos>641900</nanos>
+  <sequence>48</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:10.218152500Z</date>
+  <millis>1666806550218</millis>
+  <nanos>152500</nanos>
+  <sequence>49</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget b35c8bba-2f4d-4307-9391-42781241e34b</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:10.520533200Z</date>
+  <millis>1666806550520</millis>
+  <nanos>533200</nanos>
+  <sequence>50</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:10.884389100Z</date>
+  <millis>1666806550884</millis>
+  <nanos>389100</nanos>
+  <sequence>51</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 593cc77e-8c04-40a0-aa91-8103754080be</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:11.174940100Z</date>
+  <millis>1666806551174</millis>
+  <nanos>940100</nanos>
+  <sequence>52</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:11.561532800Z</date>
+  <millis>1666806551561</millis>
+  <nanos>532800</nanos>
+  <sequence>53</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 1f490847-fd14-4d49-ae55-510b4bac9b47</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:11.913181900Z</date>
+  <millis>1666806551913</millis>
+  <nanos>181900</nanos>
+  <sequence>54</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 081ad539-7481-4e62-a09e-1e67ba1cdf95</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:12.262544Z</date>
+  <millis>1666806552262</millis>
+  <nanos>544000</nanos>
+  <sequence>55</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 703dadea-603c-4ca0-aa2d-311120873232</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:12.628458700Z</date>
+  <millis>1666806552628</millis>
+  <nanos>458700</nanos>
+  <sequence>56</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:12.899442700Z</date>
+  <millis>1666806552899</millis>
+  <nanos>442700</nanos>
+  <sequence>57</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:13.297847700Z</date>
+  <millis>1666806553297</millis>
+  <nanos>847700</nanos>
+  <sequence>58</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget e1bb8b19-4383-4bab-9d1a-5ce3dcd071ac</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:13.680154400Z</date>
+  <millis>1666806553680</millis>
+  <nanos>154400</nanos>
+  <sequence>59</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget c2b6b828-2588-403c-8ccf-169a9edabc96</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:14.048854100Z</date>
+  <millis>1666806554048</millis>
+  <nanos>854100</nanos>
+  <sequence>60</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 227b4ef5-c22e-476d-ac76-1ccfc4b7a1fb</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:14.334391900Z</date>
+  <millis>1666806554334</millis>
+  <nanos>391900</nanos>
+  <sequence>61</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:14.717988400Z</date>
+  <millis>1666806554717</millis>
+  <nanos>988400</nanos>
+  <sequence>62</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 418b7d6b-4127-47e6-9205-7818c4be313b</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:15.028723Z</date>
+  <millis>1666806555028</millis>
+  <nanos>723000</nanos>
+  <sequence>63</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:15.305288Z</date>
+  <millis>1666806555305</millis>
+  <nanos>288000</nanos>
+  <sequence>64</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:15.731870500Z</date>
+  <millis>1666806555731</millis>
+  <nanos>870500</nanos>
+  <sequence>65</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 2ecf7896-d9b3-460d-a3c4-a43856f12492</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:16.003933Z</date>
+  <millis>1666806556003</millis>
+  <nanos>933000</nanos>
+  <sequence>66</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:16.621828900Z</date>
+  <millis>1666806556621</millis>
+  <nanos>828900</nanos>
+  <sequence>67</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget 253492b2-fb74-4e8b-bfcb-8a6286e107e5</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:16.950959500Z</date>
+  <millis>1666806556950</millis>
+  <nanos>959500</nanos>
+  <sequence>68</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:17.231974600Z</date>
+  <millis>1666806557231</millis>
+  <nanos>974600</nanos>
+  <sequence>69</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:17.630146900Z</date>
+  <millis>1666806557630</millis>
+  <nanos>146900</nanos>
+  <sequence>70</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed delete request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:17.929335Z</date>
+  <millis>1666806557929</millis>
+  <nanos>335000</nanos>
+  <sequence>71</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:18.235990300Z</date>
+  <millis>1666806558235</millis>
+  <nanos>990300</nanos>
+  <sequence>72</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:18.608351800Z</date>
+  <millis>1666806558608</millis>
+  <nanos>351800</nanos>
+  <sequence>73</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed create request for widget e0d9450c-66bd-44ae-bbf8-18d4c60689bc</message>
+</record>
+<record>
+  <date>2022-10-26T17:49:18.927364100Z</date>
+  <millis>1666806558927</millis>
+  <nanos>364100</nanos>
+  <sequence>74</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>com.example.Consumer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Processed update request for widget null</message>
+</record>
+</log>

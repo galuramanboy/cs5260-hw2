@@ -23,6 +23,7 @@ import software.amazon.awssdk.services.dynamodb.DynamoDbClientBuilder;
 import software.amazon.awssdk.services.dynamodb.model.AttributeValue;
 import software.amazon.awssdk.services.dynamodb.model.DynamoDbException;
 import software.amazon.awssdk.services.dynamodb.model.PutItemRequest;
+import software.amazon.awssdk.services.dynamodb.model.PutItemResponse;
 import software.amazon.awssdk.services.dynamodb.model.ResourceNotFoundException;
 import software.amazon.awssdk.services.s3.S3Client;
 import software.amazon.awssdk.services.s3.model.CreateBucketRequest;
@@ -37,6 +38,7 @@ import software.amazon.awssdk.services.s3.model.ListObjectsV2Request;
 import software.amazon.awssdk.services.s3.model.ListObjectsV2Response;
 import software.amazon.awssdk.services.s3.model.NoSuchKeyException;
 import software.amazon.awssdk.services.s3.model.PutObjectRequest;
+import software.amazon.awssdk.services.s3.model.PutObjectResponse;
 import software.amazon.awssdk.services.s3.model.DeleteBucketRequest;
 import software.amazon.awssdk.services.s3.model.DeleteObjectRequest;
 import software.amazon.awssdk.services.s3.model.GetObjectRequest;
@@ -163,27 +165,31 @@ public class Consumer
                                 ListObjectsV2Response response3 = s3.listObjectsV2(request3);
                                 List<S3Object> objects3 = response3.contents();
                                 String updateKey = "widgets/" + ((String) lo.get("owner")).replace(" ", "-").toLowerCase() + "/" + (String)lo.get("widgetId");
+                                lo.put("id", lo.remove("widgetId"));
                                 updateS3Bucket(objects3, updateKey, writeBucket, s3, lo);
                             }
                             else {
                                 // do dynamo stuff
                                 
                             }
-                            LOGGER.log(Level.INFO, "Processed update request for widget {0}", (String)lo.get("widgetId"));
+                            f.delete();
+                            LOGGER.log(Level.INFO, "Processed update request for widget {0}", (String)lo.get("id"));
                             break;
 
                         case "delete":
-                            ListObjectsV2Request request2 = ListObjectsV2Request.builder().bucket(writeBucket).build();
-                            ListObjectsV2Response response2 = s3.listObjectsV2(request2);
-                            List<S3Object> objects2 = response2.contents();
                             if (writeBucket != null) {
+                                ListObjectsV2Request request2 = ListObjectsV2Request.builder().bucket(writeBucket).build();
+                                ListObjectsV2Response response2 = s3.listObjectsV2(request2);
+                                List<S3Object> objects2 = response2.contents();
                                 String deleteKey = "widgets/" + ((String) lo.get("owner")).replace(" ", "-").toLowerCase() + "/" + (String)lo.get("widgetId");
+                                lo.put("id", lo.remove("widgetId"));
                                 deleteFromS3(objects2, deleteKey, writeBucket, s3);
                             }
                             else if (writeTable != null) {
                                 // do dynamo stuff
+                                System.out.println("Will handle dynamo delete later");
                             }
-                            LOGGER.log(Level.INFO, "Processed delete request for widget {0}", (String)lo.get("widgetId"));
+                            LOGGER.log(Level.INFO, "Processed delete request for widget {0}", (String)lo.get("id"));
                             break;
                     }
                     //delete request item
@@ -193,7 +199,6 @@ public class Consumer
                 else {
                     // wait a while (100ms)
                     TimeUnit.MILLISECONDS.sleep(100);
-                    System.out.println("trying again...");
 
                 }              
             } // End loop
@@ -204,13 +209,13 @@ public class Consumer
         
     }
 
-    private static void uploadToDDB(JSONObject toUpload, String writeTable, DynamoDbClient ddb) {
+    public static PutItemResponse uploadToDDB(JSONObject toUpload, String writeTable, DynamoDbClient ddb) {
         HashMap<String,AttributeValue> itemValues = new HashMap<String,AttributeValue>();
         
         for (Object key: toUpload.keySet()) {
             if (toUpload.get(key) instanceof JSONArray) {
                 // dive into json array
-                uploadHelper(toUpload.get(key), itemValues);
+                uploadDDBHelper(toUpload.get(key), itemValues);
             }
             else {
                 itemValues.put((String)key, AttributeValue.builder().s((String)toUpload.get(key)).build());
@@ -221,22 +226,22 @@ public class Consumer
                 .tableName(writeTable)
                 .item(itemValues)
                 .build();
-        try {
-            ddb.putItem(request);
+        // try {
+            return ddb.putItem(request);
 
-        } catch (ResourceNotFoundException e) {
-            System.err.format("Error: The Amazon DynamoDB table \"%s\" can't be found.\n", writeTable);
-            System.err.println("Be sure that it exists and that you've typed its name correctly!");
-            System.exit(1);
-        } catch (DynamoDbException e) {
-            System.err.println(e.getMessage());
-            System.exit(1);
-        }
+        // } catch (ResourceNotFoundException e) {
+        //     System.err.format("Error: The Amazon DynamoDB table \"%s\" can't be found.\n", writeTable);
+        //     System.err.println("Be sure that it exists and that you've typed its name correctly!");
+        //     System.exit(1);
+        // } catch (DynamoDbException e) {
+        //     System.err.println(e.getMessage());
+        //     System.exit(1);
+        // }
         
         
     }
 
-    private static void uploadHelper(Object jsonArray, HashMap itemValues) {
+    public static void uploadDDBHelper(Object jsonArray, HashMap itemValues) {
         JSONArray arr = (JSONArray) jsonArray;
         for (int i = 0; i < arr.size(); i++) {
             JSONObject obj = (JSONObject)arr.get(i);
@@ -281,10 +286,6 @@ public class Consumer
             return f;
     }
 
-    public static void downloadS3() {
-
-    }
-
     public static JSONObject parseJSON(File f, String modified) throws IOException {
         JSONObject jObject = null;
         JSONParser jsonParser = new JSONParser();
@@ -304,18 +305,22 @@ public class Consumer
         return jObject;
     }
 
-    public static void uploadToS3(JSONObject lo, String writeBucket, S3Client s3, File f) throws IOException {
+    public static PutObjectResponse uploadToS3(JSONObject lo, String writeBucket, S3Client s3, File f) throws IOException {
         String newKey = "widgets/" + ((String) lo.get("owner")).replace(" ", "-").toLowerCase() + "/" + (String)lo.get("id");
             PutObjectRequest uploadRequest = PutObjectRequest.builder()
             .bucket(writeBucket)
             .key(newKey)
             .build();
 
+            
+
         FileWriter file = new FileWriter(f);
         file.write(lo.toJSONString());
         file.flush();
         file.close();
-        s3.putObject(uploadRequest, RequestBody.fromFile(f));
+        return s3.putObject(uploadRequest, RequestBody.fromFile(f));
+        
+        
     }
 
     public static void deleteFromS3(List<S3Object> objects, String deleteKey, String writeBucket, S3Client s3) {
@@ -341,18 +346,19 @@ public class Consumer
             if (o.key().equals(updateKey)) {
                 File f = downloadObject(o, s3, writeucket);
                 JSONObject oldJson = parseJSON(f, o.lastModified().toString());
-                System.out.println("New Json: " + newJson);
-                System.out.println("Old Json: " + oldJson);
                 
                 for (Object key: newJson.keySet()) {
                     if (oldJson.containsKey(key)) {
-                        if (oldJson.get(key) instanceof JSONObject) {
-                            handleJson(oldJson.get(key), newJson.get(key));
+                        if (oldJson.get(key) instanceof JSONArray) {
+                            updateS3Helper(oldJson.get(key), newJson.get(key));
                         }
                         else if (((String)newJson.get(key)) == "") {
                             oldJson.put(key, null);
                         }
-                        oldJson.put(key, newJson.get(key));
+                        else {
+                            oldJson.put(key, newJson.get(key));
+                        }
+                        
                     }
                 }
                 // for (Object remainingKey: newJson.keySet()) {
@@ -366,9 +372,12 @@ public class Consumer
         return;
     }
 
-    public static void handleJson(Object oldObj, Object newObj) {
-        JSONObject newJ = (JSONObject) newObj;
-        JSONObject oldJ = (JSONObject) oldObj;
+    public static void updateS3Helper(Object oldObj, Object newObj) {
+        JSONArray newJ = (JSONArray) newObj;
+        JSONArray oldJ = (JSONArray) oldObj;
+        for (int i = 0; i < newJ.size(); i++) {
+            // for every json object in attributes, 
+        }
 
     }
 
