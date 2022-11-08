@@ -63,7 +63,7 @@ public class ConsumerTest
         File thing = Consumer.downloadObject(testObject, s3, "usu-cs5260-chicken-requests");
         createTestObject(test);
         assertNotNull( "Test not null", thing );
-        assertEquals(test.toString(), Consumer.parseJSON(thing, "3").toString());
+        assertEquals(test.toString(), Consumer.parseJSONS3(thing, "3").toString());
         assertNotNull(Consumer.uploadToS3(test, "usu-cs5260-chicken-web", s3, thing));
     }
 

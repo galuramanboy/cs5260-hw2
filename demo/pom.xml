@@ -54,10 +54,21 @@
       <artifactId>dynamodb</artifactId>
     </dependency>
     <dependency>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>sqs</artifactId>
+  </dependency>
+    <dependency>
       <groupId>com.googlecode.json-simple</groupId>
       <artifactId>json-simple</artifactId>
       <version>1.1.1</version>
   </dependency>
+  <!-- https://mvnrepository.com/artifact/io.github.cdimascio/dotenv-java -->
+<dependency>
+  <groupId>io.github.cdimascio</groupId>
+  <artifactId>dotenv-java</artifactId>
+  <version>2.2.4</version>
+</dependency>
+
   </dependencies>
 
   <build>
